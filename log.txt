@@ -156,3 +156,24 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor CCS811 breakout to Air-quality-sensor-CCS811-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board with easy C/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 384abb7] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/Load-cell-ampfilier-HX711-board-with-easy-C-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Air quality sensor CCS811 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Obstacle sensor TCRT5000 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with analog output/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of jpgs 2
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with analog output & easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+Hall-effect-sensor-breakout-with-analog-output---easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with analog output & easyC to Hall-effect-sensor-breakout-with-analog-output---easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Load-cell ampfilier HX711 board with easy C/.git/
